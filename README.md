@@ -1,7 +1,7 @@
 # AuthBlock Shortcode Module
 
-[![Version](http://img.shields.io/packagist/v/dnadesign/silverstripe-elemental.svg?style=flat)](https://packagist.org/packages/fosforus/authblock-shortcode)
-[![License](http://img.shields.io/packagist/l/dnadesign/silverstripe-elemental.svg?style=flat)](LICENSE)
+[![Version](http://img.shields.io/packagist/v/fosforus/authblock-shortcode.svg?style=flat)](https://packagist.org/packages/fosforus/authblock-shortcode)
+[![License](http://img.shields.io/packagist/l/fosforus/authblock-shortcode.svg?style=flat)](LICENSE)
 
 ## Requirements
 
