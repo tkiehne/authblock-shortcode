@@ -1,0 +1,21 @@
+{
+  "name": "authblock-shortcode",
+  "version": "1.0.0",
+  "description": "Creates a shortcode block to test if a user is logged in or not and render content as desired.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkiehne/authblock-shortcode.git"
+  },
+  "keywords": [
+    "silverstripe",
+    "shortcode"
+  ],
+  "author": "Thomas Kiehne",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tkiehne/authblock-shortcode/issues"
+  },
+  "homepage": "https://github.com/tkiehne/authblock-shortcode#readme",
+  "dependencies": [],
+  "devDependencies": []
+}

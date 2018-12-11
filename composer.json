@@ -1,0 +1,28 @@
+{
+    "name": "fosforus/authblock-shortcode",
+    "description": "Creates a shortcode block to test if a user is logged in or not and render content as desired.",
+    "keywords": [
+        "silverstripe",
+        "shortcode"
+    ],
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/cms": "^4",
+        "silverstripe/framework": "^4"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Fosforus\\AuthBlockShortcode\\": "src/"
+        }
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Thomas Kiehne",
+            "email": "tkiehne@fosforus.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
